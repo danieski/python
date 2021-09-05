@@ -14,5 +14,5 @@ def codificador(frase):
 
 
 
-print(codificador(input("Ponga fascismo: ")))
+print(codificador(input("Ponga algo: ")))
 
